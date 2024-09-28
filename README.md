@@ -1,6 +1,6 @@
 ### 👋 Hey there!
 
-I'm a **Machine Learning Engineer** with a passion for turning data into intelligent solutions that make a real impact. I love diving into complex problems and crafting models that can learn and adapt.
+I'm passionate about turning data into intelligent solutions that make a real impact. I love diving into complex problems and crafting models that can learn and adapt.
 
 ### 💡 Interests
 
