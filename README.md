@@ -1,51 +1,46 @@
-## Hi there 👋
+### 👋 Hey there!
+
+I'm a **Machine Learning Engineer** with a passion for turning data into intelligent solutions that make a real impact. I love diving into complex problems and crafting models that can learn and adapt.
+
+### 💡 Interests
+
+- Exploring the depths of **Deep Learning**
+- Unraveling the complexities of **Natural Language Processing**
+- Everything **Data Science**!
 
 
-## Hi there 👋
-
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
-
-**I love working with**
+### 🛠 I love working with
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&color=black">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </div>
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Sentiment Analysis on [Amazon Reviews](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews/data?select=train.ft.txt.bz2)
 
 ### 🌱 I’m learning
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/e" alt="Probability"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-</div>
+- Backpropagation
+- NLP
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
 
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/abdullahmohy/" target='_blank'>
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-<a href="abdallahmohy242@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail">
-  </a>
+  <a href="https://www.linkedin.com/in/abdullahmohy/" target='_blank'><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:abdallahmohy242@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail"></a>
 </div>
+
+
+I'm always eager to collaborate on innovative projects or just chat about the latest in tech. **Feel free to reach out—let's build something amazing together!**
       
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.
+I'am definitely a gym rat 🏋️‍♂
 
 <!--
 **bebocoding/bebocoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
