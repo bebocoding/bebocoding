@@ -20,7 +20,7 @@ I'm passionate about turning data into intelligent solutions that make a real im
 
 ### 🔭 I’m working on
 
-- Sentiment Analysis on [Amazon Reviews](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews/data?select=train.ft.txt.bz2)
+- make-more: a name-like word predictor model [project link](https://github.com/bebocoding/make-more).
 
 ### 🌱 I’m learning
 
